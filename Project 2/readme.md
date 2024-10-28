@@ -1,7 +1,7 @@
 Historical Sales and Inventory Analysis
 
 
-This project leverages Excel to analyze historical sales and inventory data, sourced from Kaggle’s Historical Sales and Active Inventory dataset. Through Excel’s data analysis features, this project uncovers trends in sales performance, pricing strategies, and marketing effectiveness across different product types and years.
+This project leverages Excel to analyze historical sales and inventory data, sourced from Kaggle’s Historical Sales and Active Inventory dataset https://www.kaggle.com/datasets/flenderson/sales-analysis?resource=download. Through Excel’s data analysis features, this project uncovers trends in sales performance, pricing strategies, and marketing effectiveness across different product types and years.
 
 Dataset Overview
 
